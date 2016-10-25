@@ -1,0 +1,7 @@
+Para correr la simulacion en Proteus ISIS 7, es necesario primero instalar la libreria
+UltrasonicSensor, pasar los archivos ARDUINO.IDX y ARDUINO.LIB a la carpeta 
+correspondiente.
+
+En la carpeta sensor esta el archivo .cpp.hex para el arduino y el skecth.
+En ca carpeta UltrasonicSensor se encuentra el archivo .cpp.hex que va dentro del
+sensor.
